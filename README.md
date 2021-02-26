@@ -1,7 +1,7 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=dongkyuk.dongkyuk)
 
 
-### About me🧑:
+### About me :
 I am an undergraduate student majoring in Artificial Intelligence at Carnegie Mellon University.<br/>
 I am interested in RL and Computer Vision, and actively participating in related Kaggle Competitions.
 

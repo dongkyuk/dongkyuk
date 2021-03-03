@@ -12,6 +12,7 @@ I am interested in RL and Computer Vision, and actively participating in related
 - Current Projects :
   - https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
   - https://www.kaggle.com/c/hungry-geese
+  - https://www.kaggle.com/c/ncaam-march-mania-2021
   - https://dacon.io/competitions/official/235697/leaderboard/
   
 - 📫 How to reach me: https://www.linkedin.com/in/dongkyuk/

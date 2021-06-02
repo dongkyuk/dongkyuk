@@ -7,7 +7,6 @@ I am interested in RL and Computer Vision, and actively participating in related
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
 - 👯 I’m looking to collaborate with developers on Kaggle Competitions or Hackathons.
-- 🤔 I’m looking for help with Open source Contribution.
 
 - Current Projects :
   - https://www.kaggle.com/c/hungry-geese

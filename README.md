@@ -11,6 +11,7 @@ I am interested in RL and Computer Vision, and actively participating in related
 
 - Current Projects :
   - https://www.kaggle.com/c/hungry-geese
+  - https://campaign.naver.com/clova_airush/
   
 - 📫 How to reach me: https://www.linkedin.com/in/dongkyuk/
 

@@ -9,8 +9,7 @@ I am interested in RL and Computer Vision, and actively participating in related
 - 👯 I’m looking to collaborate with developers on Kaggle Competitions or Hackathons.
 
 - Current Projects :
-  - https://www.kaggle.com/c/hungry-geese
-  - https://campaign.naver.com/clova_airush/
+  - https://www.kaggle.com/c/g2net-gravitational-wave-detection
   
 - 📫 How to reach me: https://www.linkedin.com/in/dongkyuk/
 

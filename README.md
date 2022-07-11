@@ -5,7 +5,7 @@
 I am an undergraduate student majoring in Artificial Intelligence at Carnegie Mellon University.<br/>
 I am interested in RL and Computer Vision, and actively participating in related Kaggle Competitions.
 
-- 🔭 I’m currently working as a Machine Learning Engineer.
+- 🔭 I’m currently working as a Deep Learning Engineer.
 - 👯 I’m looking to collaborate with developers on Kaggle Competitions or Hackathons.
 - 📫 How to reach me: https://www.linkedin.com/in/dongkyuk/
 

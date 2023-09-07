@@ -1,4 +1,4 @@
-.### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=dongkyuk.dongkyuk)
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=dongkyuk.dongkyuk)
 
 
 ### About me :

@@ -1,4 +1,4 @@
-AI @ CMU SCS Undegrad 
+AI @ CMU SCS Undergrad 
 
 I'm passionate about researching diverse topics in deep learning.
 
